@@ -1,5 +1,5 @@
 # Canadian Computing Competition (CCC):
-This repository will contain my solutions to some the problems on the Canadian Computing Competition (CCC).
+My solutions to some the problems on the past Canadian Computing Competition (CCC) contests.
 
 Most of the solutions are written in Python3 and therefore don't have the best runtimes.
 
